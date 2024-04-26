@@ -1,0 +1,39 @@
+
+//
+// VARIABLES
+//
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Jersey+10+Charted&family=Teko:wght@300..700&family=Comfortaa:wght@300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=M+PLUS+Rounded+1c&family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+// Colors
+$blue: #2d6aa7;
+
+// Grays
+$black: #000;
+$borderGray: #353535;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #cfcfcf;
+$white: #fff;
+$bone: #cfccb9;
+$tacticalRed: #753333;
+
+// Font stacks
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+$jersey10:"Jersey 10", sans-serif;
+$jersey10c:"Jersey 10 Charted", sans-serif;
+$teko:"Teko", sans-serif;
+$rajdhani:"Rajdhani", sans-serif;
+$mPlusRound:"M PLUS Rounded 1c", sans-serif;
+$exo2:"Exo 2", sans-serif;
+$comfortaa:"Comfortaa", sans-serif;
+
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
