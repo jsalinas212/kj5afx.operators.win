@@ -180,13 +180,6 @@ img {
   }
 }
 
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0- auto;
-  }
-}
-
 .site-info {
   float: left;
 
