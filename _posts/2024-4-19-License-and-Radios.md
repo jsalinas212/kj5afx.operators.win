@@ -14,7 +14,7 @@ I've been learning about the ameteur bands and the different services/modes offe
 
 ![Senku](/images/dr-stone-anime.gif)
 
-not really sure what else to do with this post since it is the first official one and haven't put much thought into what I wanted to say.
+Not really sure what else to do with this post since it is the first official one and haven't put much thought into what I wanted to say.
 
 I suppose I should use this section for anything that I'm actively working on. At the moment, other than this blog, I'm only working on my man-portable radio operator rig. Waiting on some coax cables and right angle connectors, as well as some digirig connectors to drop in so I can start running some tests.
 
