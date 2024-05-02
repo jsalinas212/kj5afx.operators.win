@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Entry
-categories: Updates
+categories: updates
 ---
 
 __Intro__: Spun up another blog for radio and wireless related projects. I got this domain, Operators.Win, to build a blog around my journey into HAM radio. I was also thinking that I could offer subdomains to other operators that might want to start up their own blogs as well.
