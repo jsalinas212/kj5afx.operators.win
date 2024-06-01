@@ -12,7 +12,7 @@ __Body__:
 
 I've been learning about the ameteur bands and the different services/modes offered. Once I feel comfortable enough, I want to start playing around with the sdr dongle that I bought, but I'm also putting together a nice portable rig to start trying park/summit activations. I'll make sure to post the details of my rig once I have it all put together and tested.
 
-![Senku](/images/dr-stone-anime.gif)
+![Senku](/images/senku.gif)
 
 Not really sure what else to do with this post since it is the first official one and haven't put much thought into what I wanted to say.
 
