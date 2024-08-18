@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $jersey10c;
-  color: $gray;
+  color: $tacticalRed;
   font-weight: 300;
 
   line-height: 1.5;
@@ -70,12 +70,12 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $tacticalRed;
   text-decoration: none;
   cursor: pointer;
 
   &:hover,&:active {
-    color: $blue;
+    color: $gray;
   }
 }
 
@@ -105,7 +105,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: 300;
 }
 
 img {
@@ -273,12 +273,12 @@ nav {
   }
 }
 
-#archives>.archive-group {
+#archives > .archive-group {
   padding-bottom: 2em;
   border-bottom: 1px dotted $borderGray;
 }
 
-#archives>.archive-group:last-child {
+#archives > .archive-group:last-child {
   padding-bottom: 1em;
   border-bottom: none;
 }
