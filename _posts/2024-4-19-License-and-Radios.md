@@ -1,14 +1,14 @@
 ---
 layout: post
 title: License and Radios
-categories: Hardware
+categories: hardware, updates
 ---
 
-__Intro__: Blog post redux. I took the ameteur radio technician license exam and passed it. 
+**Intro**: Blog post redux. I took the ameteur radio technician license exam and passed it.
 
-### // Radio >
+### Radio >
 
-__Body__:
+**Body**:
 
 I've been learning about the ameteur bands and the different services/modes offered. Once I feel comfortable enough, I want to start playing around with the sdr dongle that I bought, but I'm also putting together a nice portable rig to start trying park/summit activations. I'll make sure to post the details of my rig once I have it all put together and tested.
 
@@ -30,8 +30,6 @@ The plan is to build out some random-wire, dipole antennas (maybe a single adjus
 
 So far I've only done some testing on local repeaters with my HTs and the btech I installed in my jeep.
 
-### // eof >
-
 I'm still trying to figure out how I want to format these posts. I'm liking it so far, so we'll see if I just run with this. that's it for now.
 
-- KJ5AFX
+**Callsign**: KJ5AFX
